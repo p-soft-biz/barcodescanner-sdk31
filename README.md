@@ -1,5 +1,7 @@
-# PhoneGap Plugin BarcodeScanner
-================================
+# PhoneGap Plugin BarcodeScanner SDK 31
+=======================================
+
+ Update name complie() to implementation() for suport androidSDK 31 - Starley Cazorla
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
@@ -160,7 +162,7 @@ So many -- check out the original [iOS](https://github.com/phonegap/phonegap-plu
 
 The MIT License
 
-Copyright (c) 2010 Matt Kane
+Copyright (c) 2022 Starley Cazorla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
