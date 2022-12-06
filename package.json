@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p-soft-biz/phonegap-plugin-barcodescanner"
+    "url": "git+https://github.com/p-soft-biz/barcodescanner-sdk31"
   },
   "keywords": [
     "ecosystem:cordova",
